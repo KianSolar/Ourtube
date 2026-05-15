@@ -8,3 +8,4 @@
 - 4 - 🎬 [I-Completed-Plants-vs.-Zombies](https://github.com/KianSolar/Ourtube/tree/main/videos/I-Completed-Plants-vs.-Zombies)
 - 5 - 🎬 [I-Played-Through-EVERY-FNAF-Game](https://github.com/KianSolar/Ourtube/tree/main/videos/I-Played-Through-EVERY-FNAF-Game)
 - 6 - 🎬 [TF2-is-full-of-joy-and-rainbows](https://github.com/KianSolar/Ourtube/tree/main/videos/TF2-is-full-of-joy-and-rainbows)
+- 7 - 🎬 [Unusual-Steam-Games](https://github.com/KianSolar/Ourtube/tree/main/videos/Unusual-Steam-Games)
