@@ -8,5 +8,6 @@
 - 4 - 🎬 [I-Completed-Plants-vs.-Zombies-2](https://github.com/KianSolar/Ourtube/tree/main/videos/I-Completed-Plants-vs.-Zombies-2)
 - 5 - 🎬 [I-Completed-Plants-vs.-Zombies](https://github.com/KianSolar/Ourtube/tree/main/videos/I-Completed-Plants-vs.-Zombies)
 - 6 - 🎬 [I-Played-Through-EVERY-FNAF-Game](https://github.com/KianSolar/Ourtube/tree/main/videos/I-Played-Through-EVERY-FNAF-Game)
-- 7 - 🎬 [TF2-is-full-of-joy-and-rainbows](https://github.com/KianSolar/Ourtube/tree/main/videos/TF2-is-full-of-joy-and-rainbows)
-- 8 - 🎬 [Unusual-Steam-Games](https://github.com/KianSolar/Ourtube/tree/main/videos/Unusual-Steam-Games)
+- 7 - 🎬 [Northrend-(Alliance)-Grand-Master-Engineering-Trainer,-WoW-Wotlk,-(Valgarde-Howling-Fjord)](https://github.com/KianSolar/Ourtube/tree/main/videos/Northrend-%28Alliance%29-Grand-Master-Engineering-Trainer%2C-WoW-Wotlk%2C-%28Valgarde-Howling-Fjord%29)
+- 8 - 🎬 [TF2-is-full-of-joy-and-rainbows](https://github.com/KianSolar/Ourtube/tree/main/videos/TF2-is-full-of-joy-and-rainbows)
+- 9 - 🎬 [Unusual-Steam-Games](https://github.com/KianSolar/Ourtube/tree/main/videos/Unusual-Steam-Games)
