@@ -11,5 +11,6 @@
 - 7 - 🎬 [I-Played-Through-EVERY-FNAF-Game](https://github.com/KianSolar/Ourtube/tree/main/videos/I-Played-Through-EVERY-FNAF-Game)
 - 8 - 🎬 [Northrend-(Alliance)-Grand-Master-Engineering-Trainer,-WoW-Wotlk,-(Valgarde-Howling-Fjord)](https://github.com/KianSolar/Ourtube/tree/main/videos/Northrend-%28Alliance%29-Grand-Master-Engineering-Trainer%2C-WoW-Wotlk%2C-%28Valgarde-Howling-Fjord%29)
 - 9 - 🎬 [TF2-is-full-of-joy-and-rainbows](https://github.com/KianSolar/Ourtube/tree/main/videos/TF2-is-full-of-joy-and-rainbows)
-- 10 - 🎬 [This-Kazuya-Player-is-AI-Generated](https://github.com/KianSolar/Ourtube/tree/main/videos/This-Kazuya-Player-is-AI-Generated)
-- 11 - 🎬 [Unusual-Steam-Games](https://github.com/KianSolar/Ourtube/tree/main/videos/Unusual-Steam-Games)
+- 10 - 🎬 [The-Great-Minecraft-Toilet-Heist](https://github.com/KianSolar/Ourtube/tree/main/videos/The-Great-Minecraft-Toilet-Heist)
+- 11 - 🎬 [This-Kazuya-Player-is-AI-Generated](https://github.com/KianSolar/Ourtube/tree/main/videos/This-Kazuya-Player-is-AI-Generated)
+- 12 - 🎬 [Unusual-Steam-Games](https://github.com/KianSolar/Ourtube/tree/main/videos/Unusual-Steam-Games)
