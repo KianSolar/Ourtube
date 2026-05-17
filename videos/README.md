@@ -8,5 +8,6 @@
 - 4 - 🎬 [Evo-Japan-2026：-TEKKEN-8-Top-8](https://github.com/KianSolar/Ourtube/tree/main/videos/Evo-Japan-2026%EF%BC%9A-TEKKEN-8-Top-8)
 - 5 - 🎬 [Evo-Japan-2026：-TEKKEN-8-｜-Ikari-vs-Knee-｜-Grand-Final](https://github.com/KianSolar/Ourtube/tree/main/videos/Evo-Japan-2026%EF%BC%9A-TEKKEN-8-%EF%BD%9C-Ikari-vs-Knee-%EF%BD%9C-Grand-Final)
 - 6 - 🎬 [Man-Child-LowTierGod-Cognitive-Melts-Against-MK11-Voice-Chat](https://github.com/KianSolar/Ourtube/tree/main/videos/Man-Child-LowTierGod-Cognitive-Melts-Against-MK11-Voice-Chat)
-- 7 - 🎬 [Professional-Ragequitter-LowTierGod-Bloops-MK1-Out-Of-His-Console-+-Returns-To-Tekken-7](https://github.com/KianSolar/Ourtube/tree/main/videos/Professional-Ragequitter-LowTierGod-Bloops-MK1-Out-Of-His-Console-%2B-Returns-To-Tekken-7)
-- 8 - 🎬 [The-Minecraft-Theme-Park-That-Tortures-You](https://github.com/KianSolar/Ourtube/tree/main/videos/The-Minecraft-Theme-Park-That-Tortures-You)
+- 7 - 🎬 [Misogynist-LowTierGod-Pulls-A-Lacari-On-Stream-&-Bans-Everyone-Out-Of-His-Chat](https://github.com/KianSolar/Ourtube/tree/main/videos/Misogynist-LowTierGod-Pulls-A-Lacari-On-Stream-%26-Bans-Everyone-Out-Of-His-Chat)
+- 8 - 🎬 [Professional-Ragequitter-LowTierGod-Bloops-MK1-Out-Of-His-Console-+-Returns-To-Tekken-7](https://github.com/KianSolar/Ourtube/tree/main/videos/Professional-Ragequitter-LowTierGod-Bloops-MK1-Out-Of-His-Console-%2B-Returns-To-Tekken-7)
+- 9 - 🎬 [The-Minecraft-Theme-Park-That-Tortures-You](https://github.com/KianSolar/Ourtube/tree/main/videos/The-Minecraft-Theme-Park-That-Tortures-You)
